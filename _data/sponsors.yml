@@ -1,0 +1,24 @@
+- label: Hosts
+  sponsors:
+  - name: Transportation Research Board
+    img:
+    link: http://www.trb.org
+  - name: University of Washington
+    img:
+    link: http://washington.edu
+- label: Electric-Bus
+  sponsors:
+  - name: your name here
+    img:
+    link: #
+
+- label: E-Bike
+  sponsors:
+  - name: your name here
+    img:
+    link: #
+- label: Scooter
+  sponsors:
+  - name: your name here
+    img:
+    link: #

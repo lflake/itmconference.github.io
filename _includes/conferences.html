@@ -1,0 +1,13 @@
+<!--
+Reference from html using {% include conference.html year= location= website= img= %}
+-->
+<div class="col-sm-6 col-md-3">
+    <figure class="thumbnail">
+        <a href="{{ include.website }}"><img src="{{ include.img }}" class="img-responsive" alt="Image"></a>
+        <figcaption class="caption text-center">
+            <h3>{{ include.year }}
+            <small>{{ include.location }}</small>
+            </h3>
+        </figcaption>
+    </figure>
+</div>

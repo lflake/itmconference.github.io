@@ -1,0 +1,18 @@
+- label: Early-bird
+  price: TBD
+  notes:
+  - Before predetermined cut-off date.
+  button: check back to purchase.
+  link: #
+- label: Regular
+  price: TBD
+  notes:
+  - Before week of conference.
+  button: check back to purchase.
+  link: #
+- label: On-Site
+  price: TBD
+  notes:
+  - Week of conference.
+  button: check back to purchase.
+  link: #

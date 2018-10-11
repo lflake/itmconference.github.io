@@ -1,0 +1,23 @@
+- day: Sunday
+  agenda: 
+  - time: ~9:00-5:00
+    name: workshops
+    detail: something fun and interactive
+  - time: Evening
+    name: something
+- day: Monday
+  agenda: 
+  - time: ~9:00-5:00
+    name: sessions
+  - time: Evening
+    name: something
+- day: Tuesday
+  agenda: 
+  - time: ~9:00-5:00
+    name: sessions
+  - time: Evening
+    name: something
+- day: Wednesday
+  agenda: 
+  - time: ~9:00-2:00
+    name: sessions

@@ -1,0 +1,193 @@
+---
+layout: front
+title: 2020 Innovations in Travel Modeling Conference
+---
+
+
+    <div class="jumbotron text-center">
+        <div class="content">
+            <div class="event-date">{{ site.event-date }} in {{ site.event-location }}</div>
+            <h1>{{ site.event-title }}</h1>
+            <p class="lead">{{ site.event-tagline }}</p>
+        </div>
+    </div>
+    <!-- .Jumbotron-->
+
+
+    <section id="section-intro" class="section-wrapper about-event">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="lead">
+The Transportation Research Board (TRB) Innovations in Travel Modeling (ITM) conference series has become the leading venue for researchers and practitioners to come together and discuss, debate, and share information about advances in travel analysis and modeling methods. The ITM conference series is intended to bridge the gap between research and practice and help accelerate the deployment of new methods, tools, technologies, and algorithms in freight and passenger travel forecasting model systems. 
+                    </p>
+                    <p class="lead">
+                        The conference series was launched in 2006 and is held every other year.
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <address>
+                        <strong>Organized by:</strong><br>
+                        <a href="http://www.trb.org">Transportation Research Board</a><br>
+                        <a href="https://www.mytrb.org/OnlineDirectory/Committee/Details/3709">Standing Committee on the Travel Forecasting Resource (ADB45)</a><br>
+                    </address>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- .about-event -->
+
+    <section id="section-previous" class="section-wrapper team gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>PREVIOUS CONFERENCES</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+            {% for conf in site.data.conferences %}
+            <div class="col-sm-6 col-md-3">
+                <figure class="thumbnail">
+                <a href="{{ conf.website }}">
+                    {% if conf.img %}<img src="{{ conf.img }}" class="img-responsive" alt="Image">{% endif %}
+                    <figcaption class="caption text-center">
+                        <h3>{{ conf.year }}
+                        <small>{{ conf.location }}</small>
+                        </h3>
+                    </figcaption>
+                </a>
+                 </figure>
+                </div>
+            {% endfor %}
+            </div>
+            <!-- .row -->
+        </div>
+        <!-- /.container -->
+    </section>
+    <!-- .team -->
+
+    <section id="section-agenda" class="section-wrapper section-ajenda">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>ROUGH AGENDA</h1>
+                        <h3>[example from earlier years]</h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+            
+            {% for day in site.data.program %}
+            <div class="col-md-3">
+                <h2>{{ day.day }}</h2>
+                {% for agenda-item in day.agenda %}
+                    <div class="session">
+                        <time>{{ agenda-item.time }}</time>
+                        <h3>{{ agenda-item.name }}</h3>
+                    </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+            
+             <!-- .row -->
+            </div>
+        <!-- .container-->
+        </div>
+    </section>
+
+
+    <section id="section-pricing" class="section-wrapper pricing-section gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>REGISTRATION</h1>
+                        <p>Registration prices and dates have not yet been confirmed. Check back for more details.</p>
+                    <!-- /section-title-->
+                    </div>
+                <!-- /col-md-12-->
+                </div>
+            <!-- /row-->
+            </div>
+            <div class="row">
+                {% for reg in site.data.registration %}
+                <div class="col-sm-4">
+                    <div class="pricing-table-default text-center">
+                        <div class="pricing-head">
+                            <h3>{{ reg.label }}</h3>
+                            <span class="price"><sup>$</sup>{{ reg.price }}</span>
+                        </div>
+                        <div class="pricing-detail">
+                            <ul class="pricing-list green-i">
+                            {% for note in reg.notes %}
+                                <li>{{ note }}</li>
+                            {% endfor %}
+                            </ul>
+                        </div>
+                        <a href="{{ reg.link }}" class="btn btn-primary">{{ reg.button }}</a>
+                    </div>
+                    <!-- /.pricing-table-wrapper -->
+                </div>
+                <!-- .col-sm-4 -->
+                {% endfor %}
+
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+    <!-- .pricing-section -->
+
+
+    <section id="section-partner" class="section-wrapper client-logo">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>PARTNERS</h1>
+                    </div>
+                </div>
+            </div>
+            {% for tier in site.data.sponsors %} 
+            <div class="row">
+                    <h3>{{ tier.label }}</h3>
+                    {% for sponsor in tier.sponsors %}
+                        <div class="col-md-2 col-sm-4 col-xs-6 section-margin">
+                            {% if sponsor.img %}
+                                <a href="{{ sponsor.link }}"><img src="{{ sponsor.img }}" alt="Image"></a>
+                            {% else %}
+                                <a href="{{ sponsor.link }}">{{ sponsor.name }}</a>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+            </div>
+             {% endfor %}
+        </div>
+        <!--end of .container -->
+    </section>
+    <!-- .client-logo -->
+
+
+    <section id="section-venue" class="section-wrapper  gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>VENUE</h1>
+                        <p>Seattle, WA.</p>
+                        <p>Precise venue to be determined, Winter 2020.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- /.row-->
+
+
+        </div>
+    </section>
+  
+
+

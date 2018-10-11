@@ -1,0 +1,17 @@
+<!--
+Reference from html using {% include person.html name= organization= twitter= linkedin= %}
+-->
+<div class="col-sm-6 col-md-3">
+    <figure class="thumbnail">
+        <a href="#"><img src="img/img-team-1.jpg" class="img-responsive" alt="Image"></a>
+        <figcaption class="caption text-center">
+            <h3>{{ include.name }}
+            <small>{{ include.organization }}</small>
+            </h3>
+            <ul class="social-links">
+                <li><a href="{{ include.twitter }}"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="{{ include.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
+            </ul>
+        </figcaption>
+    </figure>
+</div>
