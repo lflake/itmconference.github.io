@@ -1,10 +1,10 @@
 - label: Hosts
   sponsors:
   - name: Transportation Research Board
-    img:
+    img: img/trb-logo.svg
     link: http://www.trb.org
   - name: University of Washington
-    img:
+    img: img/uw-logo.png
     link: http://washington.edu
 - label: Electric-Bus
   sponsors:
