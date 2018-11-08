@@ -1,23 +1,26 @@
 - day: Sunday
   agenda: 
   - time: ~9:00-5:00
-    name: workshops
-    detail: something fun and interactive
+    name: Learn
+    detail: learn the lingo and basics of machine learning.
   - time: Evening
-    name: something
+    name: learning with fun
 - day: Monday
   agenda: 
   - time: ~9:00-5:00
-    name: sessions
+    name: Discuss
+    detail: technical presentations with formal critiques and discussions
   - time: Evening
-    name: something
+    name: networking
 - day: Tuesday
   agenda: 
   - time: ~9:00-5:00
-    name: sessions
+    name: Discuss
+    detail: technical presentations with formal critiques and discussions
   - time: Evening
-    name: something
+    name: spotlight discussion
 - day: Wednesday
   agenda: 
-  - time: ~9:00-2:00
-    name: sessions
+  - time: ~9:00-4:00
+    name: Synthesize
+    detail: What did we learn and what do we do next?
