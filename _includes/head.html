@@ -8,7 +8,7 @@
     <!-- open graph metadata -->
     <meta property="og:locale" content="en_US">
     <meta property="og.type" content="website">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">  
+    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:image" content="{{ site.url }}/img/{{ site.site-image }}"/>
     <meta property="og:site_name" content="{{ site.title }}">
@@ -30,10 +30,10 @@
     <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Style CSS -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+	{% include head.html %}
+
+
+	<div id="main-wrapper">
+
+  <header class="default-header">
+		    {% include nav.html %}
+	</header>
+  <body>
+	<div class="container">
+	<div class="row">
+	<div class="col-md-9">
+	<div class="content">
+		<h1 style='text-align: center;'> {{ page.title }}</h1>
+		<h2 style='text-align: center;'> {{ page.subtitle }}</h2>
+		<p>{{ content }}</p>
+	</div>
+	</div> <!--col-md-9-->
+	<div class="col-md-3">
+		<div class="sidebar">
+				<h3><p class="special">Notes:</p></h3>
+	  		{% if page.sidenote1 %}<muted> {{ page.sidenote1 }}</muted>{% endif %}
+				{% if page.sidenote2 %}<muted> {{ page.sidenote2 }}</muted>{% endif %}
+		</div>
+	</div> <!--col-md-3-->
+</div> <!--row-->
+</div> <!--container-->
+	<div class="col-md-3">
+		{% include footer.html %}
+		{% include js.html %}
+	</div>
+	</body>
+</html>

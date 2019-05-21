@@ -51,7 +51,7 @@ body {
  *------------------------------------------*/
 
 h1, h2, h3, h4, h5, h6 {
-    margin : 0 0 15px;
+    margin : 10px 0 5px;
     color  : #0e1555;
     }
 
@@ -136,6 +136,12 @@ ul {
     list-style : none;
     }
 
+.content li:before {
+  content: ">";
+  padding-right: 8px;
+  padding-left: 8px;
+  color:  #0e1555;
+}
 /*Button Style*/
 .btn {
     padding        : 10px 30px;
@@ -156,6 +162,7 @@ ul {
 .btn-primary {
     background-color : #00ff00;
     border-color     : #00ff00;
+    color:           : #0e1555;
     }
 
 .btn-primary:hover,
@@ -220,6 +227,10 @@ button:focus,
     top      : 40px;
     z-index  : 9;
     }
+
+.default-header {
+    background-color : #0e1555;
+}
 
 /*Logo*/
 .navbar-brand {
@@ -440,6 +451,7 @@ button:focus,
     color     : #888888;
     }
 
+
 /* ----------------------------------------------
  * About Event
  *-----------------------------------------------*/
@@ -553,7 +565,7 @@ button:focus,
     display     : block;
     line-height : 1;
     }
-    
+
 .section-agenda .session p {
     margin         : 5px 0 5px 20px;
     font-size      : 16px;
@@ -632,7 +644,7 @@ button:focus,
     }
 
 /* --------------------------
- * Client Logo 
+ * Client Logo
  *---------------------------*/
 
 .client-logo a img {
