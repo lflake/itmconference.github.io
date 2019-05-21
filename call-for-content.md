@@ -22,9 +22,9 @@ Discussion, lecture, or full session that focuses on synthesizing a topic area a
  - The Committee welcomes both partially- or fully-formed ideas, so long as they can be sufficiently documented ahead enough of time in order to warrant an in-depth discussion.  
 
 ## Submission and Review Process
-Content review will occur in two stages.  Initial submissions should be in the form of a brief narrative which describes the motivation and outcomes of the proposed content in addition to a maximum of 2000 character (with spaces, approx 300 words) which describes the content itself.  Submissions should refer back to the technical focus areas of the conference listed above and describe how they relate to them. Sessions will be prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesised. Initial submissions are due June 30th (midnight, anywhere in the world).
+Content review will occur in two stages.  Initial submissions should be in the form of a brief narrative which describes the motivation and outcomes of the proposed content in addition to a maximum of 2000 character (with spaces, approx 300 words) which describes the content itself.  Submissions should refer back to the technical focus areas of the conference listed above and describe how they relate to them. Sessions will be prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesized. Initial submissions are due June 30th (midnight, anywhere in the world).
 
-Initial submissions will be screened by the conference organizing committee based on how well the proposed content fits within the vision of the conference in addition to the quality of the content itself.  Submissions that proceed from the screening stage will require an additional, longer-form submission, the format of which will be dependant upon the type of content that is proposed.  For example, a proposed lecture would likely require a lecture outline or notes and a proposed discussion around an innovation would likely require a short technical paper.
+Initial submissions will be screened by the conference organizing committee based on how well the proposed content fits within the vision of the conference in addition to the quality of the content itself.  Submissions that proceed from the screening stage will require an additional, longer-form submission, the format of which will be dependent upon the type of content that is proposed.  For example, a proposed lecture would likely require a lecture outline or notes and a proposed discussion around an innovation would likely require a short technical paper.
 
 ## Conference Focus Areas
 ### Data Solutions
@@ -59,7 +59,7 @@ What are the strengths, weaknesses, and appropriate roles of data-driven vs beha
 
 <br/>
 The Committee seeks submissions which can lead to the following outcomes:
- - Standardised terms and notation (for example, what is model validation in a data-driven versus behaviour-driven context?);  
+ - Standardized terms and notation (for example, what is model validation in a data-driven versus behavior-driven context?);  
  - Guidelines (for example, guidelines for effective validation of models); and  
  - Associated calls for action to researchers and practitioners.  
 
