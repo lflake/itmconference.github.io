@@ -8,19 +8,20 @@ sidenote2: Submissions will be open shortly – come back here!
 The Transportation Research Board Innovations in Travel Modeling Conference will be held in the Summer of 2020 in Seattle, WA. The Organizing Committee has selected the following four technical issues to focus the conference around: data solutions, modeling approaches, useful forecasts, and getting there in the real world and is seeking content submissions that further our knowledge and understanding of them.  Specific questions and issues on each topic area are further detailed below. Topics submitted that respond to these questions and issues will be given priority.  
 
 ## Content Type
-The Committee is seeking a variety of content types which respond to the focus issues and questions as follows:
-Discussion of a specific innovation or case study which you would like to put forward for review;*
-Discussion on a specific point of disagreement which is either beneficial to debate or critical to resolve;
-Lecture on a well-established, fundamental topic which the industry should be better-versed in;
-Tutorial of an important analysis technique which can take place in real-time with cross-platform, open-source tools;
-Analysis competition which can be completed with available and open data; or
-A full session of your choosing which supports the goals of and is within the areas of focus for the conference and has a well-articulated outcome.
-Discussion, lecture, or full session that focuses on synthesizing a topic area and moving it from research to practice
+The Committee is seeking a variety of content types which respond to the focus issues and questions as follows:  
+ - Discussion of a specific innovation or case study which you would like to put forward for review;  
+ - Discussion on a specific point of disagreement which is either beneficial to debate or critical to resolve;  
+ - Lecture on a well-established, fundamental topic which the industry should be better-versed in;  
+ - Tutorial of an important analysis technique which can take place in real-time with cross-platform, open-source tools;  
+ - Analysis competition which can be completed with available and open data;  
+ - A full session of your choosing which supports the goals of and is within the areas of focus for the conference and has a well-articulated outcome; or
+ - Discussion, lecture, or full session that focuses on synthesizing a topic area and moving it from research to practice
 
+<br/>
+<small>
 \*Notes  
- - The Committee does not currently anticipate any traditional lectern sessions which consist primarily of 20 minute presentations followed by a handful of questions.  Rather, sessions that present new work shall be organized around a discussion about that innovation, a submission of which shall be reviewed by the audience and assigned discussants ahead of time.  
- - The Committee welcomes both partially- or fully-formed ideas, so long as they can be sufficiently documented ahead enough of time in order to warrant an in-depth discussion.  
-
+-  <small>The Committee does not currently anticipate any traditional lectern sessions which consist primarily of 20 minute presentations followed by a handful of questions.  Rather, sessions that present new work shall be organized around a discussion about that innovation, a submission of which shall be reviewed by the audience and assigned discussants ahead of time.  </small>
+ -  <small>The Committee welcomes both partially- or fully-formed ideas, so long as they can be sufficiently documented ahead enough of time in order to warrant an in-depth discussion.  </small>
 ## Submission and Review Process
 Content review will occur in two stages.  Initial submissions should be in the form of a brief narrative which describes the motivation and outcomes of the proposed content in addition to a maximum of 2000 character (with spaces, approx 300 words) which describes the content itself.  Submissions should refer back to the technical focus areas of the conference listed above and describe how they relate to them. Sessions will be prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesized. Initial submissions are due June 30th (midnight, anywhere in the world).
 
@@ -37,7 +38,7 @@ What are techniques and strategies to assess, acquire, process, analyze, visuali
  - What questions should we be asking when evaluating data products? What are and how can we address barriers and challenges to acquiring data from various sources?  
  - How are “traditional” data sources and data collection methods changing in response to recent challenges (public perception of data privacy, response rates, etc.)?  
  - What are practices and frameworks that support best practices?  What common terms should we be using?  
-
+<br/>
 **Data Processing and Application**
  - How do we process the data for specific analyses, visualization or applications?  What processes or procedures should we employ in order to ensure privacy?  
  - How and when should new data be combined with traditional data sources? Which type of data can we confidently fuse (or not fuse)?  

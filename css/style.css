@@ -136,6 +136,10 @@ ul {
     list-style : none;
     }
 
+p + ul{
+    margin-top: -10px;
+    }
+
 .content li:before {
   content: ">";
   padding-right: 8px;
