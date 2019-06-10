@@ -2,8 +2,8 @@
 layout: default
 title: TRB Innovations in Travel Modeling Conference</br>Call for Content
 subtitle: Summer 2020 in Seattle, WA
-sidenote1: Submissions due June 30th 2019
-sidenote2: Submissions will be open shortly – come back here!
+sidenote1: Submissions due June 30th 2019 and [must be submitted electronically](https://trb.secure-platform.com/a/solicitations/home/21)
+sidenote2: Questions? Contact Jennifer L. Weeks at [JLWeeks@nas.edu](mailto://jlweeks@nas.edu).
 ---
 The Transportation Research Board Innovations in Travel Modeling Conference will be held in the Summer of 2020 in Seattle, WA. The Organizing Committee has selected the following four technical issues to focus the conference around: data solutions, modeling approaches, useful forecasts, and getting there in the real world and is seeking content submissions that further our knowledge and understanding of them.  Specific questions and issues on each topic area are further detailed below. Topics submitted that respond to these questions and issues will be given priority.  
 
@@ -23,7 +23,7 @@ The Committee is seeking a variety of content types which respond to the focus i
 -  <small>The Committee does not currently anticipate any traditional lectern sessions which consist primarily of 20 minute presentations followed by a handful of questions.  Rather, sessions that present new work shall be organized around a discussion about that innovation, a submission of which shall be reviewed by the audience and assigned discussants ahead of time.  </small>
  -  <small>The Committee welcomes both partially- or fully-formed ideas, so long as they can be sufficiently documented ahead enough of time in order to warrant an in-depth discussion.  </small>
 ## Submission and Review Process
-Content review will occur in two stages.  Initial submissions should be in the form of a brief narrative which describes the motivation and outcomes of the proposed content in addition to a maximum of 2000 character (with spaces, approx 300 words) which describes the content itself.  Submissions should refer back to the technical focus areas of the conference listed above and describe how they relate to them. Sessions will be prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesized. Initial submissions are due June 30th (midnight, anywhere in the world).
+Content review will occur in two stages.  Initial submissions should be in the form of a brief narrative which describes the motivation and outcomes of the proposed content in addition to a maximum of 2000 character (with spaces, approx 300 words) which describes the content itself.  Submissions should refer back to the technical focus areas of the conference listed above and describe how they relate to them. Sessions will be prioritized where interesting questions, that are often barely addressed at conference presentations, can be discussed and debated; and clear outcomes can be synthesized. **Initial submissions are due June 30th** (midnight, anywhere in the world) and [must be submitted electronically](https://trb.secure-platform.com/a/solicitations/home/21).
 
 Initial submissions will be screened by the conference organizing committee based on how well the proposed content fits within the vision of the conference in addition to the quality of the content itself.  Submissions that proceed from the screening stage will require an additional, longer-form submission, the format of which will be dependent upon the type of content that is proposed.  For example, a proposed lecture would likely require a lecture outline or notes and a proposed discussion around an innovation would likely require a short technical paper.
 
