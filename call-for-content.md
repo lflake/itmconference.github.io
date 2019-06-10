@@ -2,8 +2,8 @@
 layout: default
 title: TRB Innovations in Travel Modeling Conference</br>Call for Content
 subtitle: Summer 2020 in Seattle, WA
-sidenote1: Submissions due June 30th 2019 and [must be submitted electronically](https://trb.secure-platform.com/a/solicitations/home/21)
-sidenote2: Questions? Contact Jennifer L. Weeks at [JLWeeks@nas.edu](mailto://jlweeks@nas.edu).
+sidenote1: Submissions due June 30th 2019 and <a href='https://trb.secure-platform.com/a/solicitations/home/21'>must be submitted electronically.</a>
+sidenote2: Questions? Contact Jennifer L. Weeks at <a href='mailto://jlweeks@nas.edu'>JLWeeks@nas.edu</a>.
 ---
 The Transportation Research Board Innovations in Travel Modeling Conference will be held in the Summer of 2020 in Seattle, WA. The Organizing Committee has selected the following four technical issues to focus the conference around: data solutions, modeling approaches, useful forecasts, and getting there in the real world and is seeking content submissions that further our knowledge and understanding of them.  Specific questions and issues on each topic area are further detailed below. Topics submitted that respond to these questions and issues will be given priority.  
 
